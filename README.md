@@ -122,6 +122,6 @@ DirectoryX is an ongoing C# project. New features, improvements, and additional 
 
 ## Author
 
-**Austin Toms**
+**LogicOutpost**
 
 This project is part of my continued development and practice with C# and .NET.
