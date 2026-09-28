@@ -1,0 +1,14 @@
+D:\C# projects\DirectoryX\DirectoryX\bin\Debug\net9.0\DirectoryX.exe
+D:\C# projects\DirectoryX\DirectoryX\bin\Debug\net9.0\DirectoryX.deps.json
+D:\C# projects\DirectoryX\DirectoryX\bin\Debug\net9.0\DirectoryX.runtimeconfig.json
+D:\C# projects\DirectoryX\DirectoryX\bin\Debug\net9.0\DirectoryX.dll
+D:\C# projects\DirectoryX\DirectoryX\bin\Debug\net9.0\DirectoryX.pdb
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\DirectoryX.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\DirectoryX.AssemblyInfoInputs.cache
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\DirectoryX.AssemblyInfo.cs
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\DirectoryX.csproj.CoreCompileInputs.cache
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\DirectoryX.dll
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\refint\DirectoryX.dll
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\DirectoryX.pdb
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\DirectoryX.genruntimeconfig.cache
+D:\C# projects\DirectoryX\DirectoryX\obj\Debug\net9.0\ref\DirectoryX.dll
